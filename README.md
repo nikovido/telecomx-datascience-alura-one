@@ -4,7 +4,7 @@
 ![Libraries](https://img.shields.io/badge/Library-Pandas%20%7C%20Seaborn%20%7C%20Matplotlib-orange)
 ![Status](https://img.shields.io/badge/Status-Completado-green)
 
-> **Autor: Niko Vidovic. Proyecto realizado para el programa Alura ONE - Grupo 9 (G9).**
+> Proyecto realizado para el programa Alura ONE - Grupo 9 (G9).**
 
 
 ## 📖 Descripción del Proyecto
